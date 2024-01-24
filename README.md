@@ -4,7 +4,8 @@ Our paper "Admission Prediction in Undergraduate Applications: an Interpretable 
 
 ## Paper Description
 
-The link to the Full paper can be found here- https://arxiv.org/abs/2401.11698. 
+The link to the Full paper can be found here- https://arxiv.org/abs/2401.11698.
+
 The paper addresses the challenges associated with admissions decision-making process for Undergraduate admissions. It proposes the Deep-Learning based classifiers to overcome the challenges, such as scaling and bias, faced by the existing traditional methods and classical Machine Learning techniques. Furthermore, additional insights into the model's prediction is obtained by the usage of LIME (Locally Interpretable Model-agnostic Explanations) model.
 
 We have used two types of neural network architectures namely Feed-Forward and Input Convex Neural Network for the Classification problem along with PCA (Principal Component Analysis) implementation. More details regarding the hyper-parameters used could be found in the link provided above.
